@@ -1,1 +1,1 @@
-"# symbolic-anlaysis-lab" 
+"# symbolic-analysis-lab" 
